@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Onel4stch4nce/Onel4stch4nce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jakob, Jake, Chance, whatever works for you.
 
-Here are some ideas to get you started:
+I'm currently learning how to work in Software engineering to make whatever I want.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning how to use Python, and want to learn languages like React and C# for game dev.
+
+You can find all of my links on my LinkTree pinned on my account!
+
+Looking forward to using this more often for future ideas!
+
+
+-Fun facts about me:
+
+1. Fan of any and all things Sonic the Hedgehog
+2. Stream occasionally to those on Twitch.tv
+3. Current favorite anime is Chainsaw Man
+4. Current favorite online game is Marvel Rivals
+5. Hobbies: Video Games, Gym, Learning new things (Music Production, Coding, VA work, etc.)
